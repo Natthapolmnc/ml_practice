@@ -1,0 +1,11 @@
+C:\Users\Fame\Desktop\ProjectPrograming'\ML Projects\demoAIAzure\bin\Debug\netcoreapp2.2\demoAIAzure.deps.json
+C:\Users\Fame\Desktop\ProjectPrograming'\ML Projects\demoAIAzure\bin\Debug\netcoreapp2.2\demoAIAzure.runtimeconfig.json
+C:\Users\Fame\Desktop\ProjectPrograming'\ML Projects\demoAIAzure\bin\Debug\netcoreapp2.2\demoAIAzure.runtimeconfig.dev.json
+C:\Users\Fame\Desktop\ProjectPrograming'\ML Projects\demoAIAzure\bin\Debug\netcoreapp2.2\demoAIAzure.dll
+C:\Users\Fame\Desktop\ProjectPrograming'\ML Projects\demoAIAzure\bin\Debug\netcoreapp2.2\demoAIAzure.pdb
+C:\Users\Fame\Desktop\ProjectPrograming'\ML Projects\demoAIAzure\obj\Debug\netcoreapp2.2\demoAIAzure.csprojAssemblyReference.cache
+C:\Users\Fame\Desktop\ProjectPrograming'\ML Projects\demoAIAzure\obj\Debug\netcoreapp2.2\demoAIAzure.csproj.CoreCompileInputs.cache
+C:\Users\Fame\Desktop\ProjectPrograming'\ML Projects\demoAIAzure\obj\Debug\netcoreapp2.2\demoAIAzure.AssemblyInfoInputs.cache
+C:\Users\Fame\Desktop\ProjectPrograming'\ML Projects\demoAIAzure\obj\Debug\netcoreapp2.2\demoAIAzure.AssemblyInfo.cs
+C:\Users\Fame\Desktop\ProjectPrograming'\ML Projects\demoAIAzure\obj\Debug\netcoreapp2.2\demoAIAzure.dll
+C:\Users\Fame\Desktop\ProjectPrograming'\ML Projects\demoAIAzure\obj\Debug\netcoreapp2.2\demoAIAzure.pdb
